@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there !
+I am Atharv Dabli, Computer Science student at Indian Institute of Technology, Delhi
 <!--
 **atharvadabli/atharvadabli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
