@@ -1,5 +1,5 @@
 ### Hello there !
-I am Atharv Dabli, Computer Science student at Indian Institute of Technology, Delhi
+I am Atharv Dabli, Computer Science graduate at Indian Institute of Technology, Delhi. After working for an year at SkanAI, I now work as a project scientist at IIT Delhi, working on the intersection of land-atmosphere interaction and GraphRAGs.
 <!--
 **atharvadabli/atharvadabli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
